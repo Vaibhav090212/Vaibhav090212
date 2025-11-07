@@ -34,7 +34,7 @@ I'm an enthusiastic **Computer Science & Engineering student** with a burning pa
 ## 📫 Reach Out To Me:
 - 📧 **Email:** vaibhav09122005@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-843b54324/)
-- 🖥️ [Portfolio]([https://vaibhav090212.github.io/My-Website/](https://vaibhav090212.github.io/My-Portfolio-Website/index.html))
+- 🖥️ [Portfolio](https://vaibhav090212.github.io/My-Portfolio-Website/index.html/)
 
 ---
 
