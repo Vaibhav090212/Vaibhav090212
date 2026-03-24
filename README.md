@@ -51,7 +51,7 @@ I’m always looking for ambitious projects in **Cloud-Native Apps**, **Automate
 
 - 📧 **Direct:** [vaibhav09122005@gmail.com](mailto:vaibhav09122005@gmail.com)
 - 💼 **LinkedIn:** [/in/vaibhav-843b54324](https://www.linkedin.com/in/vaibhav-843b54324/)
-- 🖥️ **Live Portfolio:** [vaibhav.dev](https://vaibhav090212.github.io/My-Portfolio-Website/)
+- 🖥️ **Live Portfolio:** [vaibhav.dev](https://vaibhav090212.github.io/My-Portfolio-/)
 
 ---
 
