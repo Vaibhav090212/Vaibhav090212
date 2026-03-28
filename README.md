@@ -38,12 +38,13 @@ I'm a developer driven by the same spirit of innovation as Musk and Huang. My di
 
 ## 📌 Performance Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav090212&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Vaibhav's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav090212&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
 
+  ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhav090212&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav090212&layout=compact&theme=radical&hide_border=true)
+
+</div>
 ---
 
 ## 🤝 Connect & Collaborate
