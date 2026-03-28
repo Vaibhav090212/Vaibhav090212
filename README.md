@@ -1,6 +1,11 @@
 # 👋 Hello, I'm Vaibhav
 
 ### B.Tech Computer Science Student | AI & Full-Stack Enthusiast
+
+<a href="https://github.com/Vaibhav090212">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5C3EE8&vCenter=true&width=600&lines=Building+the+future+with+AI...;Architecting+Cloud+Solutions...;Mastering+Modern+Web+Tech...;Training+Intelligent+Models..." alt="Typing SVG" />
+</a>
+
 Building the future at the intersection of **Artificial Intelligence**, **Cloud Architecture**, and **Modern Web Technologies**.
 
 ---
@@ -38,13 +43,12 @@ I'm a developer driven by the same spirit of innovation as Musk and Huang. My di
 
 ## 📌 Performance Metrics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav090212&show_icons=true&theme=radical&hide_border=true&count_private=true&v=1" alt="Vaibhav's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav090212&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
+</p>
 
-  ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhav090212&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav090212&layout=compact&theme=radical&hide_border=true)
-
-</div>
 ---
 
 ## 🤝 Connect & Collaborate
