@@ -14,8 +14,8 @@ Building the future at the intersection of **Artificial Intelligence**, **Open S
 I am currently actively contributing to the **GirlScript Summer of Code 2026**, engineering scalable features, refining components, and optimizing codebases.
 
 <p align="center">
-  <a href="https://gssoc.girlscript.org">
-    <img src="https://gssoc-dymanic-badges.vercel.app/api/Vaibhav090212?year=2026" alt="GSSoC 2026 Metrics" width="85%" />
+  <a href="https://gssoc.girlscript.org/profile/c9d22847-bbd9-4f16-8b2d-2e3c8e9a84c2">
+    <img src="https://gssoc-dynamic-badges.vercel.app/api/Vaibhav090212?year=2026" alt="GSSoC 2026 Metrics" width="85%" />
   </a>
 </p>
 
@@ -66,9 +66,9 @@ I'm a developer driven by high-performance architecture, clean code execution, a
 ## 📌 Performance Metrics
 
 <p align="center">
-  <a href="https://gssoc.girlscript.org/profile/c9d22847-bbd9-4f16-8b2d-2e3c8e9a84c2">
-    <img src="https://gssoc-dynamic-badges.vercel.app/api/Vaibhav090212?year=2026" alt="GSSoC 2026 Metrics" width="85%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav090212&show_icons=true&theme=radical&hide_border=true&count_private=true&v=1" alt="Vaibhav's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav090212&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
 </p>
 
 ---
