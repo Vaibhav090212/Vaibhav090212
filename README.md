@@ -15,11 +15,24 @@ I am currently actively contributing to the **GirlScript Summer of Code 2026**, 
 
 <p align="center">
   <a href="https://gssoc.girlscript.org/profile/c9d22847-bbd9-4f16-8b2d-2e3c8e9a84c2">
-    <img src="https://gssoc-dynamic-badges.vercel.app/api/Vaibhav090212?year=2026" alt="GSSoC 2026 Metrics" width="85%" />
+    <img src="https://github.com/Vaibhav090212/Vaibhav090212/blob/main/Screenshot%202026-06-10%20125933.png" alt="GSSoC 2026 Metrics Tracker" width="85%" />
   </a>
 </p>
 
 > 🏆 **GSSoC '26 Global Rank:** Currently ranked **#1,319 (Top 4%)** out of 43,586+ open-source contributors with **2,036 points** across full-stack and component engineering tracks.
+
+### 🎖️ Earned Milestones & Badges
+<div align="left" style="display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img src="https://github.com/Vaibhav090212/Vaibhav090212/blob/main/gssoc-badge-role_ambassador.png" alt="GSSoC Ambassador" width="85px" />
+  <img src="https://github.com/Vaibhav090212/Vaibhav090212/blob/main/gssoc-badge-bounty_hunter.png" alt="GSSoC Bounty Hunter" width="85px" />
+  <img src="https://github.com/Vaibhav090212/Vaibhav090212/blob/main/gssoc-badge-rising_star.png" alt="GSSoC Rising Star" width="85px" />
+  <img src="https://github.com/Vaibhav090212/Vaibhav090212/blob/main/gssoc-badge-week_one.png" alt="GSSoC Week One Streak" width="85px" />
+  <img src="https://github.com/Vaibhav090212/Vaibhav090212/blob/main/gssoc-badge-point_scorer.png" alt="GSSoC Point Scorer" width="85px" />
+  <img src="https://github.com/Vaibhav090212/Vaibhav090212/blob/main/gssoc-badge-role_contributor.png" alt="GSSoC Contributor" width="85px" />
+  <img src="https://github.com/Vaibhav090212/Vaibhav090212/blob/main/gssoc-badge-first_steps.png" alt="GSSoC First Steps" width="85px" />
+  <img src="https://github.com/Vaibhav090212/Vaibhav090212/blob/main/gssoc-badge-profile_complete.png" alt="GSSoC Profile Complete" width="85px" />
+  <img src="https://github.com/Vaibhav090212/Vaibhav090212/blob/main/gssoc-badge-discord_verified.png" alt="GSSoC Discord Verified" width="85px" />
+</div>
 
 *   🏆 **Global Standing:** Ranked in the **Top 4%** globally out of 43,586+ active software developers.
 *   ⚡ **Leaderboard Rank:** **#1,319** with **2,036 points** accumulated across production-ready PRs and high-priority technical bounty tasks.
