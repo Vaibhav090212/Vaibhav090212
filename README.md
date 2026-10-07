@@ -13,10 +13,6 @@ Building the future at the intersection of **Artificial Intelligence**, **Open S
 ## 🏆 Open Source Achievements (GSSoC '26)
 I successfully participated in and completed the **GirlScript Summer of Code 2026**, engineering scalable features, refining components, and optimizing codebases.
 
-<p align="center">
-  <img src="GSSoC-2026-Certificate Vaibhav.jpg" alt="GirlScript Summer of Code 2026 Certificate of Participation" width="85%" />
-</p>
-
 > 🏆 **GSSoC '26 Global Rank:** Ranked **#1,319 (Top 4%)** out of 43,586+ open-source contributors with **2,036 points** across full-stack and component engineering tracks.
 
 ### 🎖️ Earned Milestones & Badges
